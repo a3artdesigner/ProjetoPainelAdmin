@@ -1,0 +1,373 @@
+
+
+/* Declarando Body sem margin e sem padding */
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, Helvetica, sans-serif;
+}
+/* Declarando Centralização conteudo da Pagina */
+#centralizar{
+    margin: 0 auto;
+    width: 900px;
+    height: 40px;
+}
+#centralizar1{
+    margin: 0 auto;
+    width: 900px;
+    height: 40px;
+}
+/*---------------------------------------------------*/
+
+/* Estilos Topo Sistema / Header Cabeçalho da Pagina */
+#topo-sistema{
+    width: 100%;
+    background-color : #008CBA;
+    margin-top: -15px;
+}
+#logomarca{
+    float: left;
+}
+/*---------------------------------------------------*/
+
+/* Declarando estilo do H1 da logomarca */
+#logomarca h1{
+    width: 100px;
+    color:white;
+    font-size:12pt;
+}
+/*---------------------------------------------------*/
+
+/* Menu Topo Sistema */
+#menu-topo a{
+    text-decoration: none;
+    color:white;
+}
+#menu-topo ul{
+    list-style: none;
+}
+#menu-topo li{
+    margin-top: 11px;
+    float:left;
+    padding-left: 25px;
+}
+/*---------------------------------------------------*/
+
+/* Botao Area de conta */
+#acount a{
+    text-decoration: none;
+    color: white;
+}
+#acount{
+    margin-top: 11px;
+    float: right;
+}
+/*---------------------------------------------------*/
+
+/* Menu Lateral Sistema */
+#menu-lateral{
+    margin-top:20px;
+    width: 160px;
+    height: 600px;
+    float: left;
+    margin-right:5px;
+    border:1px solid #dddddd;
+    padding:5px;
+}
+#menu-lateral a{
+    text-decoration: none;
+    color: #5BC0DE;
+}
+#menu-lateral ul{
+    margin-left:0;
+    list-style: none;
+    padding: 0;
+}
+#menu-lateral li{
+    text-align: center;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 2px;
+
+}
+#menu-lateral ul:hover{
+    color:white;
+}
+#menu-lateral li:hover{
+    background-color: #008CBA;
+    border-radius: 2px;
+    color:white;
+}
+#menu-lateral a:hover{
+    color:white;
+}
+#topo-menu-lateral{
+    background-color:#F04124;
+    padding:10px;
+    color:white;
+    text-align: center;
+    font-weight: bold;
+}
+
+/*---------------------------------------------------*/
+
+/* Conteudo Principal Sistema */
+#conteudo-restante{
+    float: right;
+    width: 700px;
+    height: 600px;
+    margin-left:5px;
+    margin-top:20px;
+    border:1px solid #dddddd;
+    padding:5px;
+}
+#conteudo-restante h1{
+    color: #b5b5b5;
+    font-size:16pt;
+}
+#conteudo-restante hr{
+    color: rgba(255, 255, 255, 0.27);
+}
+/*---------------------------------------------------*/
+
+/* Blocos para informações */
+#bloco1{
+    padding: 1px;
+    width: 200px;
+    height: 100px;
+    margin: 10px;
+    float: left;
+    background-color: #5BC0DE;
+    border: 1px solid #5BC0DE;
+}
+#bloco2{
+    padding: 1px;
+    width: 200px;
+    height: 100px;
+    margin: 10px;
+    float: left;
+    background-color: #5BC0DE;
+    border: 1px solid #5BC0DE;
+}
+#bloco3{
+    padding: 1px;
+    width: 200px;
+    height: 100px;
+    margin: 10px;
+    float: left;
+    background-color: #43AC6A;
+    border: 1px solid #43AC6A;
+}
+#bloco4{
+    padding: 1px;
+    width: 200px;
+    height: 100px;
+    margin: 10px;
+    float: left;
+    background-color: #43AC6A;
+    border: 1px solid #43AC6A;
+}
+#bloco5{
+    padding: 1px;
+    width: 200px;
+    height: 100px;
+    margin: 10px;
+    float: left;
+    background-color: #F04124;
+    border: 1px solid #F04124;
+}
+#bloco6{
+    padding: 1px;
+    width: 200px;
+    height: 100px;
+    margin: 10px;
+    float: left;
+    background-color: #F04124;
+    border: 1px solid #F04124;
+}
+#icon-atualiza img{
+    width: 50px;
+    height: 50px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#icon-atualiza h1{
+    color: white;
+    font-size: 16px;
+    float: right;
+    margin-right: 20px;
+    margin-top: 35px;
+}
+#visualizar{
+    width: 200px;
+    height: 36px;
+    background-color: #F5F5F5;
+}
+#visualizar:hover{
+    width: 200px;
+    height: 36px;
+    background-color: #e4e4e4;
+}
+/*---------------------------------------------------*/
+
+/* Padrao Txt */
+#txt{
+    color: #5bc0de;
+    font-size: 18px;
+    text-align: center;
+    padding: 8px;
+
+}
+#txt:hover{
+    color: #68ddff;
+}
+/*---------------------------------------------------*/
+#bloco-cont{
+    width: 690px;
+    background-color: #5BC0DE ;
+    padding:5px;
+
+}
+#txt-list h1{
+    color:white;
+    font-size:16px;
+    float: left;
+    margin-left: 20px;
+
+}
+#conteudo-list{
+    background-color: white;
+    padding:1px;
+    margin:2px;
+}
+#pedido-nome-data{
+    width: 200px;
+    color:#43AC6A;
+    font-weight: bold;
+    margin-top:-10px;
+    margin-left: 5px;
+}
+#status{
+    width: 100px;
+    color:white;
+    float:right;
+    margin-top: 8px;
+    font-size: 14pt;
+    margin-right: 5px;
+}
+#status-ok{
+    background-color: lawngreen;
+    color: black;
+    font-weight: bold;
+    padding: 5px;
+    float: right;
+    border-radius: 5px;
+    margin-top: -35px;
+    margin-right: 25px;
+}
+#status-aguardando{
+    background-color: #fcd736;
+    color: black;
+    font-weight: bold;
+    padding: 5px;
+    float: right;
+    border-radius: 5px;
+    margin-top: -35px;
+    margin-right: 25px;
+}
+#status-finalizado{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+    float: right;
+    border-radius: 5px;
+    margin-top: -35px;
+    margin-right: 25px;
+}
+#ver-itens{
+    width: 100%;
+    text-align: center;
+}
+#ver-itens a{
+    color: #5bc0de;
+    text-decoration: none;
+}
+#ver-itens a:hover{
+    color: red;
+    text-decoration: none;
+}
+#form-cadastro{
+    text-align: center;
+}
+#conteudo-list p{
+    font-weight: bold;
+    text-align: center;
+}
+#cadastrar-lista input{
+    border-radius: 5px;
+    border: 1px solid #dddddd;
+    padding:1px;
+    margin-bottom: 2px;
+    width: 200px;
+}
+#cadastrar-lista{
+    color:#008CBA;
+}
+
+#enviar{
+    border: 1px solid #388952;
+    padding: 5px;
+    color: white;
+    background-color: #43AC6A;
+    margin-right: 10px;
+}
+#enviar:hover{
+    border: 1px solid #2e6c3f;
+    padding: 5px;
+    color: white;
+    background-color: #00ac00;
+    margin-right: 10px;
+}
+#reset{
+    border: 1px solid #a60008;
+    padding: 5px;
+    color: white;
+    background-color: #eb0009;
+    margin-left: 10px;
+}
+#reset:hover{
+    border: 1px solid #5f0007;
+    padding: 5px;
+    color: white;
+    background-color: #ff7408;
+    margin-left: 10px;
+}
+#tabela{
+    margin: 0 auto;
+    border:1px solid #dddddd;
+    padding:10px;
+}
+#tabela td{
+    color: #3f3f3f;
+    font-weight: bold;
+    border:1px solid #dddddd;
+    padding: 5px;
+    text-align: center;
+}
+#pedir{
+    color: #00ac00;
+}
+#capas{
+    margin:10px;
+    float: left;
+    width: 200px;
+    height: 165px;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #d9d9d9;
+}
+#capas img{
+    width: 200px;
+    height: 130px;
+}
