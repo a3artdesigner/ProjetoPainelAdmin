@@ -2,16 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c303bfad-2b35-4e8d-9231-c5beb8e04b85" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/require/class/ConeDB.class.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/require/class/CRUD.class.php" afterPath="$PROJECT_DIR$/require/class/CRUD.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/require/class/ConDB.class.php" afterPath="$PROJECT_DIR$/require/class/ConDB.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/require/class/Cripto.class.php" afterPath="$PROJECT_DIR$/require/class/Cripto.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/require/class/Login.class.php" afterPath="$PROJECT_DIR$/require/class/Login.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/require/class/ValidaEmail.class.php" afterPath="$PROJECT_DIR$/require/class/ValidaEmail.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/require/class/ValidaSenha.class.php" afterPath="$PROJECT_DIR$/require/class/ValidaSenha.class.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/require/js/login.js" afterPath="$PROJECT_DIR$/require/js/login.js" />
     </list>
     <ignored path="web.iws" />
@@ -54,8 +44,8 @@
       <file leaf-file-name="login.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/require/js/login.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+            <state relative-caret-position="17">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -332,12 +322,12 @@
       <workItem from="1466436840157" duration="10248000" />
       <workItem from="1466602493033" duration="9600000" />
       <workItem from="1466613423515" duration="9570000" />
-      <workItem from="1466626095437" duration="7730000" />
+      <workItem from="1466626095437" duration="7744000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52200000" />
+    <option name="totallyTimeSpent" value="52214000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -577,8 +567,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/require/js/login.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        <state relative-caret-position="17">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
