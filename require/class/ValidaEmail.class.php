@@ -1,5 +1,5 @@
 <?php
-// Validação de Email
+
 class ValidaEmail
 {
 	public function setValidaEmail($email)
