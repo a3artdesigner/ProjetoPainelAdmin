@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c303bfad-2b35-4e8d-9231-c5beb8e04b85" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/require/class/Login.class.php" afterPath="$PROJECT_DIR$/require/class/Login.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/require/class/ValidaEmail.class.php" afterPath="$PROJECT_DIR$/require/class/ValidaEmail.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/require/jp/jpLogin.php" afterPath="$PROJECT_DIR$/require/jp/jpLogin.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/require/js/login.js" afterPath="$PROJECT_DIR$/require/js/login.js" />
     </list>
     <ignored path="web.iws" />
@@ -31,31 +35,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="jpLogin.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/require/jp/jpLogin.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/require/js/login.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
+      <file leaf-file-name="ConDB.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/require/class/ConDB.class.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Login.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/require/class/Login.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CRUD.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/require/class/CRUD.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+              <folding>
+                <marker date="1466618127874" expanded="true" signature="243:275" ph="INSERT INTO ${$table}... " />
+                <marker date="1466618127874" expanded="true" signature="683:716" ph="DELETE FROM " />
+                <marker date="1466618127874" expanded="true" signature="696:716" ph="DELETE FROM " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ValidaSenha.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/require/class/ValidaSenha.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ValidaEmail.class.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/require/class/ValidaEmail.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="12" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -87,13 +115,14 @@
         <option value="$PROJECT_DIR$/acount.html" />
         <option value="$PROJECT_DIR$/require/class/ConeDB.class.php" />
         <option value="$PROJECT_DIR$/require/class/CRUD.class.php" />
-        <option value="$PROJECT_DIR$/require/class/ValidaEmail.class.php" />
         <option value="$PROJECT_DIR$/require/class/ValidaSenha.class.php" />
-        <option value="$PROJECT_DIR$/require/class/Cripto.class.php" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/require/jp/jpLogin.php" />
+        <option value="$PROJECT_DIR$/require/class/Cripto.class.php" />
+        <option value="$PROJECT_DIR$/require/js/login.js" />
         <option value="$PROJECT_DIR$/require/class/ConDB.class.php" />
         <option value="$PROJECT_DIR$/require/class/Login.class.php" />
-        <option value="$PROJECT_DIR$/require/js/login.js" />
+        <option value="$PROJECT_DIR$/require/class/ValidaEmail.class.php" />
       </list>
     </option>
   </component>
@@ -322,12 +351,12 @@
       <workItem from="1466436840157" duration="10248000" />
       <workItem from="1466602493033" duration="9600000" />
       <workItem from="1466613423515" duration="9570000" />
-      <workItem from="1466626095437" duration="7744000" />
+      <workItem from="1466626095437" duration="16147000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52214000" />
+    <option name="totallyTimeSpent" value="60617000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -342,7 +371,7 @@
     <frame x="-8" y="-8" width="1168" height="840" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23736462" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14169675" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11723164" sideWeight="0.4963899" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32909605" sideWeight="0.50361013" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942238" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -374,7 +403,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="6" />
+      <option name="time" value="8" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -497,34 +526,26 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/require/class/ConeDB.class.php" />
-    <entry file="file://$PROJECT_DIR$/require/class/ValidaEmail.class.php">
+    <entry file="file://$PROJECT_DIR$/require/jp/jpLogin.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        <state relative-caret-position="85">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/require/class/ValidaSenha.class.php">
+    <entry file="file://$PROJECT_DIR$/require/js/login.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+        <state relative-caret-position="34">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/require/class/ConDB.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        <state relative-caret-position="367">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
           <folding />
         </state>
       </provider>
@@ -537,10 +558,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/require/class/ConDB.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/require/class/Login.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/require/class/CRUD.class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        <state relative-caret-position="136">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
           <folding>
             <marker date="1466618127874" expanded="true" signature="243:275" ph="INSERT INTO ${$table}... " />
             <marker date="1466618127874" expanded="true" signature="683:716" ph="DELETE FROM " />
@@ -549,26 +586,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/require/class/Login.class.php">
+    <entry file="file://$PROJECT_DIR$/require/class/ValidaSenha.class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+        <state relative-caret-position="119">
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/require/jp/jpLogin.php">
+    <entry file="file://$PROJECT_DIR$/require/class/ValidaEmail.class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/require/js/login.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="187">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="12" selection-end-column="37" />
           <folding />
         </state>
       </provider>

@@ -4,4 +4,4 @@
 
 	$lgn=new Login;
 
-	print $lgn->setLogin($_POST['email'],$_POST['senha']);
+	print $lgn->setLogin($_GET['email'],$_GET['senha']);
